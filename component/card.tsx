@@ -2,7 +2,7 @@ import { Minus } from "lucide-react";
 
 export const Card = () => {
   return (
-    <div className="relative z-10 w-80 rounded-3xl border border-stone-300 bg-white p-4 shadow-md">
+    <div className="relative z-10 w-80 rounded-3xl   bg-white p-4 shadow-sm shadow-stone-300 ring-1 ring-stone-300">
       
       {/* Header */}
       <div className="flex items-center justify-between">
